@@ -89,6 +89,12 @@ The goal is to transform HR data into actionable insights that support business 
 - Salary levels vary across departments.
 - Average employee tenure is approximately 7 years.
 
+---
+
+# 📷 Dashboard Preview
+
+
+<img width="1360" height="826" alt="Capture" src="https://github.com/user-attachments/assets/17be1b42-f138-458e-a51d-b72cd33ac24c" />
 
 ---
 
